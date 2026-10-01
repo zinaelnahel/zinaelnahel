@@ -1,88 +1,60 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+# Hi, I'm Zina El Nahel👋
 
-### <div align="center">I'm Zina, on my journey to becoming a full-time full-stack web developer 👩🏻‍💻 🌈</div>  
-  
+### Senior QA Engineer | Test Automation | AI-Assisted Engineering
 
-- 💻  I’m currently doing a full-stack web & app development bootcamp   
-  
+I build testing frameworks that help teams deliver reliable, accessible software. My experience spans end-to-end automation, manual testing, visual regression, performance testing, CI/CD and production monitoring.
 
-- 🌱 I’m currently learning MongoDB  
-  
+I'm currently completing **Ironhack's Artificial Intelligence Engineering Bootcamp**, expanding my knowledge of Python, machine learning and AI application development.
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+My background in **pharmacy and biotechnology** also fuels my interest in digital healthcare.
 
-<br/>  
+## Career direction 🎯
 
+I'm interested in developing a career in **AI quality, ethics and governance**, bringing together my software QA experience, AI engineering training and academic background in public policy.
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+I want to explore how AI systems can be evaluated for reliability, accessibility and fairness, and how clear quality standards and governance can support responsible AI development—particularly in digital healthcare.
 
+## What I've worked on
 
+- End-to-end test automation with **Playwright and Cypress**
+- Visual regression testing with **Playwright**
+- Accessibility testing with **Playwright and Axe-core**, checking WCAG 2.1 AA requirements
+- Performance and load testing with **K6 and Apache JMeter**
+- Integrating automated tests into **CI/CD pipelines**
+- Production monitoring and alerting with **Datadog and Status.io**
+- Coaching colleagues transitioning from manual to automated testing
+- AI-assisted development using **Cursor and Claude Code**
 
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-</div>
+## Tools & Technologies
 
-</td><td valign="top" width="33%">
+| Area | Tools & Technologies |
+| --- | --- |
+| Testing & Quality | Playwright, Cypress, Axe-core, K6, Apache JMeter, Postman |
+| Programming | JavaScript, TypeScript, Python, SQL |
+| Web Development | Angular, React, Node.js, HTML, CSS, Bootstrap |
+| APIs & Data | REST APIs, MongoDB |
+| Delivery & Monitoring | Git, CI/CD, Jira, Datadog, Status.io |
+| AI-Assisted Development | Cursor, Claude Code |
 
+**Certification:** ISTQB Certified Tester Foundation Level (CTFL)
 
+## Currently learning 🌱
 
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
-</div>
+Through my AI Engineering bootcamp, I'm developing my knowledge of:
 
+- Python for AI applications
+- Machine learning and deep learning
+- Natural language processing
+- AI system design
 
+## A little more about me
 
+- I've mentored career changers at **ReDI School of Digital Integration**.
+- I speak **German, English and Arabic**, alongside Spanish, French and some Italian.
+- Outside technology, I enjoy music, hiking, strength training, languages, sailing and board games.
 
+## Connect with me
 
-</td></tr></table>  
+[LinkedIn](https://www.linkedin.com/in/zina-el-nahel/) ·
+[GitHub](https://github.com/zinaelnahel)
 
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/https://github.com/zinaelnahel" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/zina-el-nahel/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
