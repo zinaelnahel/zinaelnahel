@@ -1,6 +1,6 @@
 # Hi, I'm Zina El Nahel👋
 
-### Senior QA Engineer | Test Automation | AI-Assisted Engineering
+### Senior SDET / QA Automation Engineer |  Applied AI
 
 I build testing frameworks that help teams deliver reliable, accessible software. My experience spans end-to-end automation, manual testing, visual regression, performance testing, CI/CD and production monitoring.
 
