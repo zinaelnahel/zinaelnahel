@@ -1,5 +1,9 @@
 # Hi, I'm Zina El Nahel👋
 
+**[Visit my portfolio — Zina El Nahel, Applied AI Engineer](https://portfoliozinaelnahel.vercel.app/)**
+
+Explore my AI applications, professional engineering work, testing evidence and downloadable CV.
+
 ### Senior SDET / QA Automation Engineer |  Applied AI
 
 I build testing frameworks that help teams deliver reliable, accessible software. My experience spans end-to-end automation, manual testing, visual regression, performance testing, CI/CD and production monitoring.
