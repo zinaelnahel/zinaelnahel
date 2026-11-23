@@ -1,14 +1,28 @@
 # Hi, I'm Zina El Nahel
 
-### Applied AI Engineer · QA & software engineering background
+### Senior QA Engineer | AI Quality & LLM Evaluation
 
-I build conversational AI and NLP applications, backed by professional experience in frontend development, test automation, accessibility and performance.
+I build automated tests for web and AI applications, with a focus on retrieval quality, citation grounding and when an assistant should abstain. My professional background includes test automation, accessibility, performance and production monitoring.
 
 Based in **Berlin**, relocating to **Spain**, and open to **Spain-based and EU-remote opportunities**.
 
-[Explore my portfolio](https://portfoliozinaelnahel.vercel.app/) · [Download my CV](https://portfoliozinaelnahel.vercel.app/zina-el-nahel-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zina-el-nahel/) · [Email](mailto:zinamahmoud1989@gmail.com)
+[Explore my portfolio](https://portfoliozinaelnahel.vercel.app/) · [Download my CV](https://portfoliozinaelnahel.vercel.app/zina-el-nahel-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zina-el-nahel/) · [Email](mailto:zinaelnahel@gmail.com)
 
 ## Start with these projects
+
+### EU AI Act Research Desk
+
+A regulatory research tool with a reproducible 43-case benchmark for retrieval, citations and abstention. The public demo uses deterministic retrieval; local model smoke tests are reported separately.
+
+[Demo](https://eu-ai-act-research-desk.vercel.app/) · [Evaluation](https://eu-ai-act-research-desk.vercel.app/evaluation.html) · [Code](https://github.com/zinaelnahel/eu-ai-act-research-desk)
+
+### AI QA Evaluation for a Policy Assistant
+
+A Python and pytest suite for a fictional policy assistant, with labeled cases, offline regression checks and a small local Ollama evaluation.
+
+[Code and reports](https://github.com/zinaelnahel/ai-qa-evaluation)
+
+## Other applied AI projects
 
 ### Career Dojo
 AI mock interviews, evidence-based CV reviews and career planning in a dojo-inspired workspace. Built with **Python, Flask, React, OpenAI and Bootstrap**, with browser-saved practice history and a clearly labelled demo mode.
@@ -60,7 +74,7 @@ Previously, I worked as a **Frontend Developer & QA Engineer at Accenture** (Dec
 
 My path spans **pharmacy and biotechnology**, a **master's in public policy and good governance**, peacebuilding work, and software engineering.
 
-I'm completing **Ironhack's AI Engineering Bootcamp (31 August–13 November 2026)**, building on full-stack web development training and an **ISTQB CTFL certification**.
+I completed **Ironhack's AI Engineering Bootcamp in November 2026**, building on full-stack web development training and an **ISTQB CTFL certification**.
 
 I mentored career changers at **ReDI School of Digital Integration** from November 2022 to March 2025.
 
