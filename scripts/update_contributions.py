@@ -233,7 +233,7 @@ def main():
   <br>
   This contribution dashboard refreshes daily and after profile repository pushes.
 </details>
-<!-- contributions:end -->
+<!-- contributions:end -->""".format(year=today.year, total=today_total)
     pattern = r"<!-- contributions:start -->.*?<!-- contributions:end -->"
     if re.search(pattern, readme, re.S):
         readme = re.sub(pattern, lambda _: block, readme, flags=re.S)
