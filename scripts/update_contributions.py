@@ -208,7 +208,7 @@ def main():
     if re.search(pattern, readme, re.S):
         readme = re.sub(pattern, lambda _: block, readme, flags=re.S)
     else:
-        old = r"<p align=\\"center\\"><img src=\\"assets/contribution-stats\\.svg\\".*?(?=### What I ship)"
+        old = r'<p align="center"><img src="assets/contribution-stats\.svg".*?(?=### What I ship)'
         if not re.search(old, readme, re.S):
             raise RuntimeError("README contribution section not found")
         readme = re.sub(old, block + "\n\n", readme, count=1, flags=re.S)
