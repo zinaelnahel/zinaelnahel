@@ -99,7 +99,7 @@ def svg_stats(today, start, days, public_repos, stars):
         current_streak += 1
         cursor -= timedelta(days=1)
     best = run = 0
-    cursor = start
+    cursor = date(today.year, 1, 1)
     while cursor <= today:
         if days.get(cursor.isoformat(), 0) > 0:
             run += 1
