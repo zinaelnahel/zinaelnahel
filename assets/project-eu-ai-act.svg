@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+<title id="t">EU AI Act Research Desk</title><desc id="d">Legal answers with evidence attached. Verified citations, fallback, retrieval gates.</desc><defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.2" fill="#26231f" opacity=".12"/></pattern></defs>
+<rect x="4" y="4" width="632" height="352" rx="26" fill="#fffaf0" stroke="#26231f" stroke-width="4"/><rect x="8" y="8" width="624" height="344" rx="22" fill="url(#dots)"/>
+<rect x="25" y="25" width="590" height="310" rx="20" fill="#b9dcff" stroke="#26231f" stroke-width="3"/>
+<g transform="translate(52 51)"><circle cx="44" cy="44" r="25" fill="#f9dfa8" stroke="#26231f" stroke-width="4"/><path d="M62 63l20 20" stroke="#26231f" stroke-width="7" stroke-linecap="round"/><path d="M32 44h24M44 32v24" stroke="#26231f" stroke-width="3"/></g>
+<text x="167" y="71" font-family="Trebuchet MS,Arial,sans-serif" font-size="14" font-weight="900" letter-spacing="1.4" fill="#39352f">FEATURED BUILD · RAG</text>
+<text x="167" y="113" font-family="Trebuchet MS,Arial,sans-serif" font-size="28" font-weight="900" fill="#26231f">EU AI Act Research Desk</text>
+<text x="52" y="174" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" font-weight="700" fill="#37332e">Legal answers with evidence attached.</text>
+<text x="52" y="202" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" font-weight="700" fill="#37332e">Verified citations, fallback, retrieval gates.</text>
+<g font-family="monospace" font-size="13" font-weight="700" fill="#26231f">
+<rect x="48" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="119" y="277" text-anchor="middle">RAG</text>
+<rect x="201" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="272" y="277" text-anchor="middle">PLAYWRIGHT</text>
+<rect x="354" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="425" y="277" text-anchor="middle">CI</text>
+</g>
+<g transform="translate(552 269)"><circle cx="0" cy="0" r="25" fill="#ff6f4a" stroke="#26231f" stroke-width="2.5"/><path d="M-8 -7l11 7-11 7" fill="none" stroke="#26231f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
