@@ -18,18 +18,48 @@ class ContributionParser(HTMLParser):
     def __init__(self):
         super().__init__()
         self.days = {}
+        self.ids_to_dates = {}
+        self.active_tooltip = None
 
     def handle_starttag(self, tag, attrs):
-        if tag != "rect":
-            return
         attrs = dict(attrs)
-        day = attrs.get("data-date")
-        count = attrs.get("data-count")
-        if day and count is not None:
-            try:
+        if tag == "td" and "ContributionCalendar-day" in attrs.get("class", ""):
+            day = attrs.get("data-date")
+            if not day:
+                return
+            cell_id = attrs.get("id")
+            if cell_id:
+                self.ids_to_dates[cell_id] = day
+            count = attrs.get("data-count")
+            label = attrs.get("aria-label", "")
+            if count is None:
+                match = re.search(r"(\\d+) contribution", label)
+                count = match.group(1) if match else ("0" if "no contributions" in label.lower() else None)
+            if count is not None:
                 self.days[day] = int(count)
-            except ValueError:
-                pass
+        elif tag == "rect":
+            day = attrs.get("data-date")
+            count = attrs.get("data-count")
+            if day and count is not None:
+                self.days[day] = int(count)
+        elif tag == "tool-tip":
+            self.active_tooltip = attrs.get("for")
+
+    def handle_data(self, data):
+        if not self.active_tooltip:
+            return
+        day = self.ids_to_dates.get(self.active_tooltip)
+        if not day:
+            return
+        match = re.search(r"(\\d+) contribution", data)
+        if match:
+            self.days[day] = int(match.group(1))
+        elif "no contributions" in data.lower():
+            self.days[day] = 0
+
+    def handle_endtag(self, tag):
+        if tag == "tool-tip":
+            self.active_tooltip = None
 
 
 def fetch_calendar(start, end):
