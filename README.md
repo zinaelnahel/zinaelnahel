@@ -12,7 +12,6 @@
 <p align="center"><b>Spain-based · Open to Spain-based and EU-remote roles</b></p>
 
 <!-- contributions:start -->
-<!-- contributions:start -->
 <p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
 
 <p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
