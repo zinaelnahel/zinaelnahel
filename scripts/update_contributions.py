@@ -144,7 +144,7 @@ def svg_calendar(today, start, days):
                 count = days.get(day.isoformat(), 0)
                 fill = PALETTE[0 if count == 0 else 1 if count < 3 else 2 if count < 6 else 3 if count < 10 else 4]
             x, y = x0 + col * step, y0 + row * 25
-            cells.append('<rect x="{}" y="{}" width="18" height="21" rx="5" fill="{}"/><text x="{}" y="{}" text-anchor="middle" font-family="monospace" font-size="8.5" font-weight="700" fill="#26231f">{}</text>'.format(x, y, fill, x + 9, y + 14, count))
+            cells.append('<rect x="{}" y="{}" width="18" height="18" rx="5" fill="{}"><title>{}: {} contributions</title></rect>'.format(x, y, fill, day.isoformat(), count))
     total = sum(n for d, n in days.items() if start.isoformat() <= d <= today.isoformat())
     return """<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="328" viewBox="0 0 1200 328" role="img" aria-labelledby="t d">
 <title id="t">Daily GitHub contributions</title><desc id="d">Daily contribution counts from {start:%B %d, %Y} to {today:%B %d, %Y}. Total {total}.</desc>
@@ -224,6 +224,8 @@ def main():
     block = """<!-- contributions:start -->
 <p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
 
+<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
+
 <p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
 
 <details>
@@ -231,9 +233,7 @@ def main():
   <br>
   This contribution dashboard refreshes daily and after profile repository pushes.
 </details>
-
-<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
-<!-- contributions:end -->""".format(year=today.year, total=today_total)
+<!-- contributions:end -->
     pattern = r"<!-- contributions:start -->.*?<!-- contributions:end -->"
     if re.search(pattern, readme, re.S):
         readme = re.sub(pattern, lambda _: block, readme, flags=re.S)
