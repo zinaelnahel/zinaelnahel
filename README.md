@@ -14,15 +14,15 @@
 <!-- contributions:start -->
 <p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
 
+<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
+
 <p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
 
 <details>
-  <summary><b>2026: 363 contributions so far</b></summary>
+  <summary><b>Contribution activity by year</b></summary>
   <br>
   This contribution dashboard refreshes daily and after profile repository pushes.
 </details>
-
-<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
 <!-- contributions:end -->
 
 ### What I ship
