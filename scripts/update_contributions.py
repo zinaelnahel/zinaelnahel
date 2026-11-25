@@ -33,7 +33,7 @@ class ContributionParser(HTMLParser):
             count = attrs.get("data-count")
             label = attrs.get("aria-label", "")
             if count is None:
-                match = re.search(r"(\\d+) contribution", label)
+                match = re.search(r"(\d+) contribution", label)
                 count = match.group(1) if match else ("0" if "no contributions" in label.lower() else None)
             if count is not None:
                 self.days[day] = int(count)
@@ -51,7 +51,7 @@ class ContributionParser(HTMLParser):
         day = self.ids_to_dates.get(self.active_tooltip)
         if not day:
             return
-        match = re.search(r"(\\d+) contribution", data)
+        match = re.search(r"(\d+) contribution", data)
         if match:
             self.days[day] = int(match.group(1))
         elif "no contributions" in data.lower():
