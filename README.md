@@ -1,83 +1,98 @@
-# Hi, I'm Zina El Nahel
+<p align="center">
+  <img src="assets/profile-hero.svg" alt="Zina El Nahel — AI Quality Engineer and Senior QA Engineer" width="100%">
+</p>
 
-### Senior QA Engineer | AI Quality & LLM Evaluation
+<p align="center">
+  <a href="https://portfoliozinaelnahel.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0f766e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/zina-el-nahel/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:zinaelnahel@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-b45309?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://portfoliozinaelnahel.vercel.app/zina-el-nahel-resume.pdf"><img src="https://img.shields.io/badge/CV-PDF-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"></a>
+</p>
 
-I build automated tests for web and AI applications, with a focus on retrieval quality, citation grounding and when an assistant should abstain. My professional background includes test automation, accessibility, performance and production monitoring.
+<p align="center"><b>Spain-based · Open to Spain-based and EU-remote roles</b></p>
 
-Based in **Berlin**, relocating to **Spain**, and open to **Spain-based and EU-remote opportunities**.
+## What I work on
 
-[Explore my portfolio](https://portfoliozinaelnahel.vercel.app/) · [Download my CV](https://portfoliozinaelnahel.vercel.app/zina-el-nahel-resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zina-el-nahel/) · [Email](mailto:zinaelnahel@gmail.com)
+I’m an AI Quality Engineer and ISTQB-certified Senior QA Engineer with 5+ years in software quality. I build evaluation frameworks and automated quality gates for AI and web applications, with a focus on **RAG retrieval, citation grounding, abstention, safety, accessibility, and performance**.
 
-## Start with these projects
+## Selected work
 
-### EU AI Act Research Desk
-
-A regulatory research tool with a reproducible 43-case benchmark for retrieval, citations and abstention. The public demo uses deterministic retrieval; local model smoke tests are reported separately.
-
-[Demo](https://eu-ai-act-research-desk.vercel.app/) · [Evaluation](https://eu-ai-act-research-desk.vercel.app/evaluation.html) · [Code](https://github.com/zinaelnahel/eu-ai-act-research-desk)
-
-### AI QA Evaluation for a Policy Assistant
-
-A Python and pytest suite for a fictional policy assistant, with labeled cases, offline regression checks and a small local Ollama evaluation.
-
-[Code and reports](https://github.com/zinaelnahel/ai-qa-evaluation)
-
-## Other applied AI projects
-
-### Career Dojo
-AI mock interviews, evidence-based CV reviews and career planning in a dojo-inspired workspace. Built with **Python, Flask, React, OpenAI and Bootstrap**, with browser-saved practice history and a clearly labelled demo mode.
-
-[Live app](https://ai-powered-career-coach-dojo.vercel.app/) · [Code](https://github.com/zinaelnahel/ai_powered_career_coach) · [Testing evidence](https://github.com/zinaelnahel/ai_powered_career_coach#verify-changes)
-
-### IronStore Enterprise AI Assistant
-A document-grounded assistant for company policies, procedures and products, with department filters, clickable citations and a source reader. Built with **Next.js, TypeScript, OpenAI and Python**. The deployed lab searches **83 synthetic PDFs** using TF-IDF; ChromaDB semantic retrieval is an optional provider.
-
-The documented evaluation includes 31 tests and six live paraphrase retrieval checks. These are targeted checks, rather than a general answer-accuracy score.
-
-[Live app](https://ironstore-assistant-sigma.vercel.app/) · [Code](https://github.com/zinaelnahel/project-brief-enterprise-ai-assistant) · [Testing evidence](https://github.com/zinaelnahel/project-brief-enterprise-ai-assistant#10-checks-we-ran)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://eu-ai-act-research-desk.vercel.app/">EU AI Act Research Desk</a></h3>
+      <p>A source-grounded legal research assistant with verified citations, evidence fallback, and a labeled benchmark for retrieval, grounding, and abstention.</p>
+      <p><a href="https://github.com/zinaelnahel/eu-ai-act-research-desk">Source</a> · <a href="https://eu-ai-act-research-desk.vercel.app/evaluation.html">Evaluation</a> · <a href="https://github.com/zinaelnahel/eu-ai-act-research-desk/actions">CI</a></p>
+      <sub>RAG · Python · Node.js · pytest · Playwright · GitHub Actions</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/zinaelnahel/ai-qa-evaluation">AI QA Evaluation</a></h3>
+      <p>A reproducible Python and pytest evaluation suite for a policy assistant, with labeled cases, offline regression checks, and a local Ollama smoke evaluation.</p>
+      <p><a href="https://github.com/zinaelnahel/ai-qa-evaluation">Code and reports</a></p>
+      <sub>LLM evaluation · Python · pytest · Ollama</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://ai-powered-career-coach-dojo.vercel.app/">Career Dojo</a></h3>
+      <p>An AI practice space for mock interviews, evidence-based CV reviews, and career planning, with browser-saved practice history and a clearly labeled demo mode.</p>
+      <p><a href="https://github.com/zinaelnahel/ai_powered_career_coach">Source</a> · <a href="https://github.com/zinaelnahel/ai_powered_career_coach#verify-changes">Testing evidence</a></p>
+      <sub>Python · Flask · React · OpenAI</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://ironstore-assistant-sigma.vercel.app/">IronStore Enterprise AI Assistant</a></h3>
+      <p>A document-grounded assistant with department filters, clickable citations, and a source reader. Its documented evaluation includes 31 tests and six live paraphrase retrieval checks.</p>
+      <p><a href="https://github.com/zinaelnahel/project-brief-enterprise-ai-assistant">Source</a> · <a href="https://github.com/zinaelnahel/project-brief-enterprise-ai-assistant#10-checks-we-ran">Testing evidence</a></p>
+      <sub>Next.js · TypeScript · OpenAI · Python · RAG</sub>
+    </td>
+  </tr>
+</table>
 
 <details>
-<summary>More AI and software projects</summary>
+  <summary><b>More projects</b></summary>
+  <br>
 
-- **SafarAI:** conversational travel planning with itineraries, estimated budgets, weather and currency tools. Python, FastAPI, OpenAI and JavaScript. [Demo](https://ai-travel-advisor-mu.vercel.app/) · [Code](https://github.com/zinaelnahel/ai_travel_advisor)
-- **Automated Customer Reviews:** a collaborative NLP workflow combining DistilBERT sentiment classification, semantic clustering with K-means and evidence-based article drafts. A separate personal sentiment demo runs in the browser with ONNX. [Personal demo](https://review-insights-gamma.vercel.app/) · [Shared project](https://github.com/zinaelnahel/NLP-automated-customer-reviews)
-- **PokeFight:** a modernized team project with turn-based battles, search and persistent rankings. React, Node.js and PostgreSQL. [Demo](https://pokefight-three.vercel.app/) · [Code](https://github.com/zinaelnahel/pokefight_front_end)
-- **The Rocket Coder:** a full-stack React, Material UI, Node.js and MongoDB application. [Demo](https://rocketcoder.netlify.app/) · [Code](https://github.com/zinaelnahel/the_rocket_coder_frontend)
-
+  - **SafarAI** — conversational trip planning with itineraries, budget estimates, weather, and currency tools. [Demo](https://ai-travel-advisor-mu.vercel.app/) · [Code](https://github.com/zinaelnahel/ai_travel_advisor)
+  - **Automated Customer Reviews** — NLP workflow for sentiment classification, semantic clustering, and evidence-based article drafts. [Demo](https://review-insights-gamma.vercel.app/) · [Code](https://github.com/zinaelnahel/NLP-automated-customer-reviews)
+  - **PokeFight** — team-built turn-based game with search and persistent rankings. [Demo](https://pokefight-three.vercel.app/) · [Code](https://github.com/zinaelnahel/pokefight_front_end)
+  - **The Rocket Coder** — full-stack application built with React, Material UI, Node.js, and MongoDB. [Demo](https://rocketcoder.netlify.app/) · [Code](https://github.com/zinaelnahel/the_rocket_coder_frontend)
 </details>
 
-## The engineering behind my AI work
+## How I build quality in
 
-At **IU IT Services**, I worked as an Automation Test Specialist (September 2023–June 2024), then Senior Software Engineer in Test (July 2024–June 2026).
+- **AI evaluation:** labeled datasets, retrieval precision and recall, citation checks, grounding, abstention, and prompt-injection tests
+- **Automation:** Playwright, Cypress, pytest, API tests, visual regression, and CI quality gates
+- **Performance and accessibility:** k6, Apache JMeter, Axe-core, and WCAG 2.1 AA
+- **Production quality:** monitoring and alerting with Datadog, Status.io, and incident.io
 
-- Built k6 performance and Playwright visual regression frameworks from scratch.
-- Co-built a Playwright and Axe-core accessibility framework with the team.
-- Integrated end-to-end testing into CI/CD and supported production monitoring with Datadog, Status.io and incident.io.
-- Coached colleagues in test automation and collaborated with engineering teams on test strategy.
+## Toolkit
 
-Previously, I worked as a **Frontend Developer & QA Engineer at Accenture** (December 2021–August 2023), building Angular interfaces and Cypress tests.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress">
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI">
+</p>
 
-[Read the professional case studies](https://portfoliozinaelnahel.vercel.app/#work)
+## A bit about me
 
-## Tools I use
+Before software, I worked in peacebuilding and studied public policy, pharmacy, and biotechnology. That mix keeps me curious about how technology works in real contexts—and how to test it responsibly.
 
-| Area | Selected tools and skills |
-| --- | --- |
-| Applied AI | Python, OpenAI API and tool calling, RAG, ChromaDB, embeddings, NLP, model evaluation |
-| Machine learning | Hugging Face Transformers, scikit-learn, sentiment analysis, K-means, ONNX, Ollama |
-| Applications | TypeScript, JavaScript, React, Next.js, Angular, Node.js, FastAPI, Flask |
-| Interfaces and data | Bootstrap, Material UI, Streamlit, PostgreSQL, MongoDB, SQL, REST APIs |
-| Quality | Playwright, Cypress, Axe-core, WCAG 2.1 AA, k6, Apache JMeter, Postman |
-| Delivery | Git, CI/CD, Vercel, Datadog, Status.io, incident.io |
+**Experience:** Senior SDET at IU IT Services · Frontend Developer & QA Engineer at Accenture · Mentor at ReDI School  
+**Education:** AI Engineering (Ironhack, 2026) · Full-stack web development · Master in Public Policy and Good Governance  
+**Languages:** Arabic (native) · German (C2) · English (C2) · Spanish (B2) · French (B1) · Italian (A1)
 
-## A few chapters, one curious person
+## GitHub activity
 
-My path spans **pharmacy and biotechnology**, a **master's in public policy and good governance**, peacebuilding work, and software engineering.
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zinaelnahel&bg_color=ffffff00&color=0f766e&line=0f766e&point=f59e0b&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%">
+</p>
 
-I completed **Ironhack's AI Engineering Bootcamp in November 2026**, building on full-stack web development training and an **ISTQB CTFL certification**.
-
-I mentored career changers at **ReDI School of Digital Integration** from November 2022 to March 2025.
-
-**Languages:** Arabic (native), German and English (C2), Spanish (B2), French (B1), Italian (A1).
-
-I'm interested in building useful AI applications where reliability, accessibility and thoughtful evaluation matter.
+<p align="center"><sub>More about my work and background on <a href="https://portfoliozinaelnahel.vercel.app/">my portfolio</a>.</sub></p>
