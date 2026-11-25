@@ -19,7 +19,7 @@
 <p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
 
 <details>
-  <summary><b>Contribution activity by year</b></summary>
+  <summary><b>2026: 367 contributions so far</b></summary>
   <br>
   This contribution dashboard refreshes daily and after profile repository pushes.
 </details>
