@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-labelledby="t d">
+<title id="t">Career Dojo</title><desc id="d">Practice interviews and review CV evidence. A playful workspace with saved practice.</desc><defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="2.5" cy="2.5" r="1.2" fill="#26231f" opacity=".12"/></pattern></defs>
+<rect x="4" y="4" width="632" height="352" rx="26" fill="#fffaf0" stroke="#26231f" stroke-width="4"/><rect x="8" y="8" width="624" height="344" rx="22" fill="url(#dots)"/>
+<rect x="25" y="25" width="590" height="310" rx="20" fill="#f7b8c8" stroke="#26231f" stroke-width="3"/>
+<g transform="translate(52 51)"><path d="M24 72c28 0 10-48 38-48 14 0 18 12 18 20" fill="none" stroke="#26231f" stroke-width="6" stroke-linecap="round"/><circle cx="24" cy="72" r="9" fill="#f7b8c8" stroke="#26231f" stroke-width="3"/><circle cx="80" cy="44" r="9" fill="#b9dcff" stroke="#26231f" stroke-width="3"/></g>
+<text x="167" y="71" font-family="Trebuchet MS,Arial,sans-serif" font-size="14" font-weight="900" letter-spacing="1.4" fill="#39352f">APPLIED AI · COACHING</text>
+<text x="167" y="113" font-family="Trebuchet MS,Arial,sans-serif" font-size="28" font-weight="900" fill="#26231f">Career Dojo</text>
+<text x="52" y="174" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" font-weight="700" fill="#37332e">Practice interviews and review CV evidence.</text>
+<text x="52" y="202" font-family="Trebuchet MS,Arial,sans-serif" font-size="18" font-weight="700" fill="#37332e">A playful workspace with saved practice.</text>
+<g font-family="monospace" font-size="13" font-weight="700" fill="#26231f">
+<rect x="48" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="119" y="277" text-anchor="middle">FLASK</text>
+<rect x="201" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="272" y="277" text-anchor="middle">REACT</text>
+<rect x="354" y="252" width="142" height="39" rx="14" fill="#fffaf0" stroke="#26231f" stroke-width="2.5"/><text x="425" y="277" text-anchor="middle">OPENAI</text>
+</g>
+<g transform="translate(552 269)"><circle cx="0" cy="0" r="25" fill="#ff6f4a" stroke="#26231f" stroke-width="2.5"/><path d="M-8 -7l11 7-11 7" fill="none" stroke="#26231f" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
