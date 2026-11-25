@@ -11,17 +11,19 @@
 
 <p align="center"><b>Spain-based · Open to Spain-based and EU-remote roles</b></p>
 
-<p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="On GitHub: 343 contributions in the last year, current three day streak, five day longest streak, 215 contributions in the last 30 days, 72 public repositories, and two stars."></p>
+<!-- contributions:start -->
+<p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
 
-<p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months, totaling 343 contributions."></p>
+<p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
 
 <details>
-  <summary><b>2026: 343 contributions so far</b></summary>
+  <summary><b>2026: 0 contributions so far</b></summary>
   <br>
-  This calendar snapshot covers November 23, 2025 through November 25, 2026. GitHub’s native contribution calendar below the profile README continues to update automatically.
+  This contribution dashboard refreshes daily and after profile repository pushes.
 </details>
 
-<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily contribution graph: 215 contributions from October 27 through November 25, 2026."></p>
+<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
+<!-- contributions:end -->
 
 ### What I ship
 
