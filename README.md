@@ -11,9 +11,17 @@
 
 <p align="center"><b>Spain-based · Open to Spain-based and EU-remote roles</b></p>
 
-<p align="center">
-  <img src="assets/quality-signals.svg" width="100%" alt="Five plus years in QA, a 43 case evaluation benchmark, four AI evaluation frameworks, and WCAG 2.1 AA accessibility practice.">
-</p>
+<p align="center"><img src="assets/contribution-stats.svg" width="100%" alt="On GitHub: 343 contributions in the last year, current three day streak, five day longest streak, 215 contributions in the last 30 days, 72 public repositories, and two stars."></p>
+
+<p align="center"><img src="assets/contribution-calendar.svg" width="100%" alt="Daily GitHub contribution counts for the last 12 months, totaling 343 contributions."></p>
+
+<details>
+  <summary><b>2026: 343 contributions so far</b></summary>
+  <br>
+  This calendar snapshot covers November 23, 2025 through November 25, 2026. GitHub’s native contribution calendar below the profile README continues to update automatically.
+</details>
+
+<p align="center"><img src="assets/contributions-30d.svg" width="100%" alt="Daily contribution graph: 215 contributions from October 27 through November 25, 2026."></p>
 
 ### What I ship
 
