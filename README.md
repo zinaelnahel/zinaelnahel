@@ -12,11 +12,11 @@
 <p align="center"><b>Spain-based · Open to Spain-based and EU-remote roles</b></p>
 
 <!-- contributions:start -->
-<p align="center"><img src="assets/contribution-stats.svg?v=20261126" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
+<p align="center"><img src="assets/contribution-stats.svg?v=20261127" width="100%" alt="GitHub contribution statistics, refreshed automatically."></p>
 
-<p align="center"><img src="assets/contributions-30d.svg?v=20261126" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
+<p align="center"><img src="assets/contributions-30d.svg?v=20261127" width="100%" alt="Daily GitHub contributions over the last 30 days."></p>
 
-<p align="center"><img src="assets/contribution-calendar.svg?v=20261126" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
+<p align="center"><img src="assets/contribution-calendar.svg?v=20261127" width="100%" alt="Daily GitHub contribution counts for the last 12 months."></p>
 
 <details>
   <summary><b>2026: 366 contributions so far</b></summary>
